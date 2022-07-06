@@ -1,5 +1,7 @@
 ![tux2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=tux2000&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tux2000)
+
 <!--
 
 ### Hi there 👋
